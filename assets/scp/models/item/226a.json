@@ -1,0 +1,4 @@
+{
+  "parent": "item/beef",
+  "textures": {"layer0": "scp:item/226a"}
+}

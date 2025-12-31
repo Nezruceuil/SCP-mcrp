@@ -1,0 +1,4 @@
+{
+  "parent": "item/sculk_vein",
+  "textures": {"layer0": "scp:item/226b6"}
+}
