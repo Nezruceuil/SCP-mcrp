@@ -11,7 +11,7 @@
 		"height": 32
 	},
 	"blueprint_settings": {
-		"export_namespace": "075",
+		"export_namespace": "057",
 		"render_box": [48, 48],
 		"resource_pack": "/Users/Mark/Library/Application Support/minecraft/resourcepacks/SCP RessourcePack",
 		"data_pack": "/Users/Mark/Library/Application Support/minecraft/saves/SCP/datapacks/SCP"

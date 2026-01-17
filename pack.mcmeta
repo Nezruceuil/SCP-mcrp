@@ -1,12 +1,9 @@
 {
-  "pack": {
-    "description": "SCP in the wild wouaaa",
-    "pack_format": 57,
-    "supported_formats": [
-      1,
-      93
-    ],
-    "min_format": 1,
-    "max_format": 93
-  }
+	"pack": {
+		"description": "SCP in the wild wouaaa",
+		"pack_format": 57,
+		"supported_formats": [1, 93],
+		"min_format": 69,
+		"max_format": 9999999
+	}
 }

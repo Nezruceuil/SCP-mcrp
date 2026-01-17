@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/396/carpet",
+	"textures": {
+		"3": "animated_java:blueprint/396/spruce_planks"
+	}
+}
